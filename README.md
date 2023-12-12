@@ -2,6 +2,8 @@
 Aurorae theme for KDE Plasma that mimics Yosemite window decoration, but with Breeze colors to match Breeze window theme.
 Forked from [andreyorst](https://github.com/andreyorst/Breezemite) (no longer mantaining Breezemite).
 
+![Screenshot](./Screenshot.jpg)
+
 ### Installation:
 Copy theme folders to `~/.local/share/aurorae/themes`
 
