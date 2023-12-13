@@ -15,7 +15,7 @@ Download the Zip in the "Code" button or type
 
 Copy theme folders to `~/.local/share/aurorae/themes`
 
-or use my simple script `chmod +x && ./install.sh`
+or use my simple script `chmod +x install.sh && ./install.sh`
 
 ## OLD F.A.Q. 
 #### Most of these should be fixed by the Aurorae Theme Engine
