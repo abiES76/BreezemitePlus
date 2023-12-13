@@ -1,5 +1,5 @@
 # BreezemitePlus
-| ![Logo](./breezemiteplus100.jpg) | >Aurorae theme for KDE Plasma that mimics Yosemite window decoration, but with Breeze colors to match Breeze window theme. |
+![Logo](./breezemiteplus100.jpg) Aurorae theme for KDE Plasma that mimics Yosemite window decoration, but with Breeze colors to match Breeze window theme.
 
 Forked from [andreyorst](https://github.com/andreyorst/Breezemite) to fix the button width/height and padding (no longer mantaining Breezemite).
 
