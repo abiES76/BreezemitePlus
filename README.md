@@ -10,7 +10,8 @@ Forked from [andreyorst](https://github.com/andreyorst/Breezemite) to fix the bu
 
 ### Installation:
 Download the Zip in the "Code" button or type
->`git clone https://github.com/abiES76/BreezemitePlus/`
+
+`git clone https://github.com/abiES76/BreezemitePlus/`
 
 Copy theme folders to `~/.local/share/aurorae/themes`
 
